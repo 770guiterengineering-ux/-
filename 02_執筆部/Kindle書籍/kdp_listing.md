@@ -2,7 +2,11 @@
 
 ## タイトル・サブタイトル
 - タイトル：安売りしないハンドメイド作家になる
+  - フリガナ(記号なし・KDP入力用)：ヤスウリシナイハンドメイドサッカニナル
+  - ローマ字：Yasuuri Shinai Handomeido Sakka ni Naru
 - サブタイトル：値付け・販路・伝え方・顧客対応・数字公開、そして確定申告まで
+  - フリガナ(記号なし・KDP入力用)：ネヅケハンロツタエカタコキャクタイオウスウジコウカイソシテカクテイシンコクマデ
+  - ローマ字：Nezuke, Hanro, Tsutaekata, Kokyaku Taiou, Suuji Koukai, Soshite Kakutei Shinkoku made
 - 著者名：七尾書房
 
 ## 紹介文(KDP説明文欄・477字)
